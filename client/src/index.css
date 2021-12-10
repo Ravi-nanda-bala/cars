@@ -28,7 +28,7 @@ code {
 h1{
   font-size: 30px;
   font-weight: bold;
-  color : orangered;
+  color : black;
 }
 p{
   margin: 5px !important;
@@ -38,8 +38,8 @@ p{
 .btn1{
   box-shadow: none !important;
   background-color : white !important;
-  color: orangered !important;
-  border: 1px solid orangered !important;
+  color: black !important;
+  border: 1px solid black !important;
   padding: 5px 15px !important;
   outline: none !important;
 }
@@ -56,8 +56,8 @@ button{
 .header .ant-btn{
   box-shadow: none !important;
   background-color : white !important;
-  color: orangered !important;
-  border: 1px solid orangered !important;
+  color: black !important;
+  border: 1px solid black !important;
   padding: 5px 15px !important;
   outline: none !important;
 }
@@ -99,7 +99,7 @@ button{
   transition: 0.3s;
 }
 .login{
-  background-color: black;
+  background-color: white;
   padding-top: 50px;
   min-height: 100vh;
 }
@@ -144,5 +144,5 @@ svg{
   width : 20px !important;
 }
 a{
-  color: orangered !important;
+  color: black !important;
 }
